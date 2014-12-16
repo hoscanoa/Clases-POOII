@@ -1,0 +1,13 @@
+C:\Users\suite-c301\AppData\Local\Temporary Projects\Semana11B\bin\Debug\Semana11B.exe.config
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\bin\Debug\Semana11B.exe.config
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\bin\Debug\Semana11B.exe
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\bin\Debug\Semana11B.pdb
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\bin\Debug\Semana11B.xml
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.vbprojResolveAssemblyReference.cache
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.Form1.resources
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.Resources.resources
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.exe
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.xml
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.pdb
+C:\Users\suite-c301\Desktop\Semana11B\Semana11B\Proyecto\Semana11B\Semana11B\obj\Debug\Semana11B.Form2.resources

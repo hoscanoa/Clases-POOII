@@ -1,0 +1,24 @@
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaEntidad.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaNegocios.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaEntidad.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaNegocios.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\bin\Debug\CapaDatos.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.frmListadoProductos.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\POOII\Semana08\Proyecto\Semana08\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\POOII\Semana08\Proyecto\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\POOII\Semana08\Proyecto\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+F:\POOII\Semana08\Proyecto\Semana08\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

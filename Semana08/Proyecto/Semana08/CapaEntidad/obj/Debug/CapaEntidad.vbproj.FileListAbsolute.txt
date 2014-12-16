@@ -1,0 +1,8 @@
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\bin\Debug\CapaEntidad.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\bin\Debug\CapaEntidad.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\bin\Debug\CapaEntidad.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\obj\Debug\CapaEntidad.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\obj\Debug\CapaEntidad.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaEntidad\obj\Debug\CapaEntidad.pdb

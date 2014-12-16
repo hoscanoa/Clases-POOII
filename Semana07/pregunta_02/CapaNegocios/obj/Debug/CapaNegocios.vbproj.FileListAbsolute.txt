@@ -1,0 +1,15 @@
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaNegocios.xml
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaDatos.dll
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaEntidad.dll
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaDatos.pdb
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaDatos.xml
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaEntidad.pdb
+F:\POOII\Semana07\pregunta_02\CapaNegocios\bin\Debug\CapaEntidad.xml
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.xml
+F:\POOII\Semana07\pregunta_02\CapaNegocios\obj\Debug\CapaNegocios.pdb

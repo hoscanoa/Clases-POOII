@@ -1,0 +1,8 @@
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\obj\Debug\wcfServicios.Resources.resources
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\obj\Debug\wcfServicios.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\bin\wcfServicios.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\bin\wcfServicios.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\bin\wcfServicios.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\obj\Debug\wcfServicios.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\obj\Debug\wcfServicios.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\wcfServicios\obj\Debug\wcfServicios.pdb

@@ -1,0 +1,10 @@
+F:\POOII\Semana02A\Semana02A\bin\Debug\Semana02A.exe.config
+F:\POOII\Semana02A\Semana02A\bin\Debug\Semana02A.exe
+F:\POOII\Semana02A\Semana02A\bin\Debug\Semana02A.pdb
+F:\POOII\Semana02A\Semana02A\bin\Debug\Semana02A.xml
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02_A.Form1.resources
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02_A.Resources.resources
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02A.vbproj.GenerateResource.Cache
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02A.exe
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02A.xml
+F:\POOII\Semana02A\Semana02A\obj\Debug\Semana02A.pdb

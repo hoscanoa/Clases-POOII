@@ -1,0 +1,8 @@
+F:\POOII\Semana07\pregunta_02\CapaEntidad\bin\Debug\CapaEntidad.dll
+F:\POOII\Semana07\pregunta_02\CapaEntidad\bin\Debug\CapaEntidad.pdb
+F:\POOII\Semana07\pregunta_02\CapaEntidad\bin\Debug\CapaEntidad.xml
+F:\POOII\Semana07\pregunta_02\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+F:\POOII\Semana07\pregunta_02\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+F:\POOII\Semana07\pregunta_02\CapaEntidad\obj\Debug\CapaEntidad.dll
+F:\POOII\Semana07\pregunta_02\CapaEntidad\obj\Debug\CapaEntidad.xml
+F:\POOII\Semana07\pregunta_02\CapaEntidad\obj\Debug\CapaEntidad.pdb

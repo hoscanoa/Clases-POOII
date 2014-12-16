@@ -1,0 +1,10 @@
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\bin\Debug\Semana13b.exe.config
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\bin\Debug\Semana13b.exe
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\bin\Debug\Semana13b.pdb
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\bin\Debug\Semana13b.xml
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.Form1.resources
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.Resources.resources
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.exe
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.xml
+C:\Users\suite-c301\Desktop\Semana13B\Semana13b\Semana13b\obj\Debug\Semana13b.pdb

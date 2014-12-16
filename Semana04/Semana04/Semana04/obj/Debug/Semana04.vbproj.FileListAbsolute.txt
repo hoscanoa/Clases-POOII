@@ -1,0 +1,11 @@
+C:\Users\suite-c301\AppData\Local\Temporary Projects\Semana04\bin\Debug\Semana04.exe.config
+F:\POOII\Semana04\Semana04\Semana04\bin\Debug\Semana04.exe.config
+F:\POOII\Semana04\Semana04\Semana04\bin\Debug\Semana04.exe
+F:\POOII\Semana04\Semana04\Semana04\bin\Debug\Semana04.pdb
+F:\POOII\Semana04\Semana04\Semana04\bin\Debug\Semana04.xml
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.Form1.resources
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.Resources.resources
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.vbproj.GenerateResource.Cache
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.exe
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.xml
+F:\POOII\Semana04\Semana04\Semana04\obj\Debug\Semana04.pdb

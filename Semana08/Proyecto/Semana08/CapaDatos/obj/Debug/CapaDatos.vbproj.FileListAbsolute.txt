@@ -1,0 +1,12 @@
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaDatos.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaEntidad.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaEntidad.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\bin\Debug\CapaEntidad.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana08\CapaDatos\obj\Debug\CapaDatos.pdb

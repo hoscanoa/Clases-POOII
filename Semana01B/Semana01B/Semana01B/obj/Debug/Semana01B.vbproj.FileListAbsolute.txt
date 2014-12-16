@@ -1,0 +1,22 @@
+C:\Users\pfsierra\AppData\Local\Temporary Projects\Semana01B\bin\Debug\Semana01B.exe.config
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\bin\Debug\Semana01B.exe.config
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\bin\Debug\Semana01B.exe
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\bin\Debug\Semana01B.pdb
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\bin\Debug\Semana01B.xml
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.Form1.resources
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.Resources.resources
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.vbproj.GenerateResource.Cache
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.exe
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.xml
+C:\Users\pfsierra\Desktop\Semana01B\Semana01B\obj\Debug\Semana01B.pdb
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\bin\Debug\Semana01B.exe.config
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.exe
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.xml
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.pdb
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\bin\Debug\Semana01B.exe
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\bin\Debug\Semana01B.pdb
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\bin\Debug\Semana01B.xml
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.Form1.resources
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.Form2.resources
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.Resources.resources
+C:\Users\suite-c301\Desktop\Semana01B\Semana01B\Semana01B\obj\Debug\Semana01B.vbproj.GenerateResource.Cache

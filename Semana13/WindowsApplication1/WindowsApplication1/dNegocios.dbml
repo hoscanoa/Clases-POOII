@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Negocios2014" Class="dNegociosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=Negocios2014;User ID=sa" SettingsObjectName="WindowsApplication1.My.MySettings" SettingsPropertyName="Negocios2014ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="Compras.productos" Member="productos">
+    <Type Name="productos">
+      <Column Name="IdProducto" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NomProducto" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="IdProveedor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdCategoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CantxUnidad" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PrecioUnidad" Type="System.Decimal" DbType="Decimal(10,0) NOT NULL" CanBeNull="false" />
+      <Column Name="UnidadesEnExistencia" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="UnidadesEnPedido" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_CLIENTESXPAIS" Method="SP_CLIENTESXPAIS">
+    <Parameter Name="PAIS" Parameter="pAIS" Type="System.String" DbType="Char(3)" />
+    <ElementType Name="SP_CLIENTESXPAISResult">
+      <Column Name="IdCliente" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="NomCliente" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="DirCliente" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="idpais" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="fonoCliente" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTACATEGORIAS" Method="SP_LISTACATEGORIAS">
+    <ElementType Name="SP_LISTACATEGORIASResult">
+      <Column Name="IdCategoria" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NombreCategoria" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTACLIENTES" Method="SP_LISTACLIENTES">
+    <ElementType Name="SP_LISTACLIENTESResult">
+      <Column Name="IdCliente" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="NomCliente" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="DirCliente" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="idpais" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="fonoCliente" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTAPAIS" Method="SP_LISTAPAIS">
+    <ElementType Name="SP_LISTAPAISResult">
+      <Column Name="Idpais" Type="System.String" DbType="Char(3) NOT NULL" CanBeNull="false" />
+      <Column Name="NombrePais" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTAPRODUCTOS" Method="SP_LISTAPRODUCTOS">
+    <ElementType Name="SP_LISTAPRODUCTOSResult">
+      <Column Name="IdProducto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NomProducto" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="IdProveedor" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IdCategoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CantxUnidad" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="PrecioUnidad" Type="System.Decimal" DbType="Decimal(10,0) NOT NULL" CanBeNull="false" />
+      <Column Name="UnidadesEnExistencia" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="UnidadesEnPedido" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTAPROVEEDORES" Method="SP_LISTAPROVEEDORES">
+    <ElementType Name="SP_LISTAPROVEEDORESResult">
+      <Column Name="IdProveedor" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NomProveedor" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="DirProveedor" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="NomContacto" Type="System.String" DbType="VarChar(80) NOT NULL" CanBeNull="false" />
+      <Column Name="CargoContacto" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="idpais" Type="System.String" DbType="Char(3)" CanBeNull="true" />
+      <Column Name="fonoProveedor" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="FaxProveedor" Type="System.String" DbType="VarChar(15) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_ULTIMOPRODUCTO" Method="SP_ULTIMOPRODUCTO">
+    <ElementType Name="SP_ULTIMOPRODUCTOResult">
+      <Column Name="IdProducto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

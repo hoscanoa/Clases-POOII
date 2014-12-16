@@ -1,0 +1,12 @@
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\suite-c301\Desktop\Semana07\SistemaNegocios2014\CapaDatos\obj\Debug\CapaDatos.pdb

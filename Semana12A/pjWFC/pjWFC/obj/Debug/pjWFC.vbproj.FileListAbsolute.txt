@@ -1,0 +1,11 @@
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\bin\Debug\pjWFC.exe.config
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.Form1.resources
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.Resources.resources
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\bin\Debug\pjWFC.exe
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\bin\Debug\pjWFC.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\bin\Debug\pjWFC.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.exe
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\pjWFC\pjWFC\obj\Debug\pjWFC.Form2.resources

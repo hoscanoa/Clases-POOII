@@ -1,0 +1,44 @@
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\bin\Debug\pregunta_01.exe.config
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\bin\Debug\pregunta_01.exe
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\bin\Debug\pregunta_01.pdb
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\bin\Debug\pregunta_01.xml
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.Form1.resources
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.Resources.resources
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.exe
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.xml
+C:\Users\suite-c301\AppData\Local\Temporary Projects\pregunta_01\obj\Debug\pregunta_01.pdb
+C:\Users\suite-c301\Desktop\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe.config
+C:\Users\suite-c301\Desktop\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.exe
+C:\Users\suite-c301\Desktop\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.xml
+C:\Users\suite-c301\Desktop\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.pdb
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe.config
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.exe
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.xml
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.pdb
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.pdb
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.xml
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Form1.resources
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Resources.resources
+C:\Users\sophia\Desktop\POO\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.vbproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe.config
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.pdb
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\bin\Debug\pregunta_01.xml
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Form1.resources
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Resources.resources
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.vbproj.GenerateResource.Cache
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.exe
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.xml
+C:\Users\Hernan\Desktop\_pooooo\´pooooo\pregunta_01\pregunta_01\obj\Debug\pregunta_01.pdb
+F:\POOII\Semana07\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe.config
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.exe
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.xml
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.pdb
+F:\POOII\Semana07\pregunta_01\pregunta_01\bin\Debug\pregunta_01.exe
+F:\POOII\Semana07\pregunta_01\pregunta_01\bin\Debug\pregunta_01.pdb
+F:\POOII\Semana07\pregunta_01\pregunta_01\bin\Debug\pregunta_01.xml
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Form1.resources
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.Resources.resources
+F:\POOII\Semana07\pregunta_01\pregunta_01\obj\Debug\pregunta_01.vbproj.GenerateResource.Cache

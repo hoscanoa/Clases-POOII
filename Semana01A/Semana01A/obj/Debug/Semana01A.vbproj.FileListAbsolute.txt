@@ -1,0 +1,12 @@
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\bin\Debug\Semana01A.exe.config
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\bin\Debug\Semana01A.exe
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\bin\Debug\Semana01A.pdb
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\bin\Debug\Semana01A.xml
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\Semana01A.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\Semana01A.exe
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\Semana01A.xml
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\Semana01A.pdb
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\suite-c301\Desktop\POOII\Semana01A\Semana01A\obj\Debug\WindowsApplication1.Form3.resources

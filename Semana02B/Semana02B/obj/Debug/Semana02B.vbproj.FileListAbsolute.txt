@@ -1,0 +1,10 @@
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\bin\Debug\Semana02B.exe.config
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\bin\Debug\Semana02B.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\bin\Debug\Semana02B.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\bin\Debug\Semana02B.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.Form1.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.Resources.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.vbproj.GenerateResource.Cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\Semana02B\Semana02B\obj\Debug\Semana02B.pdb
