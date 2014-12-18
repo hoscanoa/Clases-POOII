@@ -1,0 +1,16 @@
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.Resources.resources
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\bin\WcfService1.xml
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.xml
+C:\Users\sophia\Desktop\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+J:\POOII\WcfService1\WcfService1\bin\WcfService1.dll
+J:\POOII\WcfService1\WcfService1\bin\WcfService1.pdb
+J:\POOII\WcfService1\WcfService1\bin\WcfService1.xml
+J:\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.Resources.resources
+J:\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.vbproj.GenerateResource.Cache
+J:\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+J:\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.xml
+J:\POOII\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
