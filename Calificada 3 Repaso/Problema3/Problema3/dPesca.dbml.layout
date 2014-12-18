@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dPesca">
+  <DataContextMoniker Name="/dPescaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fe02cb69-aea7-455a-8e86-0b75c1fa597b" absoluteBounds="0.75, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dPescaDataContext/TB_BARCO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5b0e236b-e4ea-4183-9587-eb626ddb92f2" absoluteBounds="0.765, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

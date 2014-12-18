@@ -1,0 +1,10 @@
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\bin\Debug\Problema3.exe.config
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\bin\Debug\Problema3.exe
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\bin\Debug\Problema3.pdb
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\bin\Debug\Problema3.xml
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.Form1.resources
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.Resources.resources
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.vbproj.GenerateResource.Cache
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.exe
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.xml
+E:\Cibertec\Cuarto Ciclo\POOII\EL2\Problema3\Problema3\obj\Debug\Problema3.pdb
