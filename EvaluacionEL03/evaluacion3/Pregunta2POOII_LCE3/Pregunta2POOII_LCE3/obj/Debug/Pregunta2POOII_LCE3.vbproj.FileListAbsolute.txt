@@ -1,0 +1,10 @@
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\bin\Debug\Pregunta2POOII_LCE3.exe.config
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\bin\Debug\Pregunta2POOII_LCE3.exe
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\bin\Debug\Pregunta2POOII_LCE3.pdb
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\bin\Debug\Pregunta2POOII_LCE3.xml
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.Form1.resources
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.Resources.resources
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.exe
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.xml
+C:\Users\suite-c301\Desktop\evaluacion3\Pregunta2POOII_LCE3\Pregunta2POOII_LCE3\obj\Debug\Pregunta2POOII_LCE3.pdb

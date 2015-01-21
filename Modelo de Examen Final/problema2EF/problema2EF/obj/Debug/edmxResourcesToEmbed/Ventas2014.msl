@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VENTAS2014ModelStoreContainer" CdmEntityContainer="VENTAS2014Entities1">
+    <EntitySetMapping Name="CLIENTE">
+      <EntityTypeMapping TypeName="VENTAS2014Model.CLIENTE">
+        <MappingFragment StoreEntitySet="CLIENTE">
+          <ScalarProperty Name="COD_CLI" ColumnName="COD_CLI" />
+          <ScalarProperty Name="NOMBRES" ColumnName="NOMBRES" />
+          <ScalarProperty Name="APE_PATER_CLI" ColumnName="APE_PATER_CLI" />
+          <ScalarProperty Name="APE_MATER_CLI" ColumnName="APE_MATER_CLI" />
+          <ScalarProperty Name="DIRECCION_CLI" ColumnName="DIRECCION_CLI" />
+          <ScalarProperty Name="TELEFONO_CLI" ColumnName="TELEFONO_CLI" />
+          <ScalarProperty Name="COD_DIST" ColumnName="COD_DIST" />
+          <ScalarProperty Name="CORREO_E" ColumnName="CORREO_E" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DISTRITO">
+      <EntityTypeMapping TypeName="VENTAS2014Model.DISTRITO">
+        <MappingFragment StoreEntitySet="DISTRITO">
+          <ScalarProperty Name="COD_DIST" ColumnName="COD_DIST" />
+          <ScalarProperty Name="DESCRIP_DIST" ColumnName="DESCRIP_DIST" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,8 @@
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaEntidad\obj\Debug\CapaEntidad.pdb

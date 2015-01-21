@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Negocios2014Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Negocios2014Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="productos" EntityType="Negocios2014Model.productos" />
+    <EntitySet Name="clientes" EntityType="Negocios2014Model.clientes" />
+    <EntitySet Name="paises" EntityType="Negocios2014Model.paises" />
+    <AssociationSet Name="FK__clientes__idpais__145C0A3F" Association="Negocios2014Model.FK__clientes__idpais__145C0A3F">
+      <End Role="paises" EntitySet="paises" />
+      <End Role="clientes" EntitySet="clientes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="productos">
+    <Key>
+      <PropertyRef Name="IdProducto" />
+    </Key>
+    <Property Name="IdProducto" Type="Int32" Nullable="false" />
+    <Property Name="NomProducto" Type="String" Nullable="false" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="IdProveedor" Type="Int32" />
+    <Property Name="IdCategoria" Type="Int32" />
+    <Property Name="CantxUnidad" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="PrecioUnidad" Type="Decimal" Nullable="false" Precision="10" Scale="0" />
+    <Property Name="UnidadesEnExistencia" Type="Int16" Nullable="false" />
+    <Property Name="UnidadesEnPedido" Type="Int16" Nullable="false" />
+  </EntityType>
+  <EntityType Name="clientes">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Type="String" Name="IdCliente" Nullable="false" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="NomCliente" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="DirCliente" Nullable="false" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="idpais" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="fonoCliente" Nullable="false" MaxLength="25" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="paises" Relationship="Negocios2014Model.FK__clientes__idpais__145C0A3F" FromRole="clientes" ToRole="paises" />
+  </EntityType>
+  <EntityType Name="paises">
+    <Key>
+      <PropertyRef Name="Idpais" />
+    </Key>
+    <Property Type="String" Name="Idpais" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="NombrePais" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="clientes" Relationship="Negocios2014Model.FK__clientes__idpais__145C0A3F" FromRole="paises" ToRole="clientes" />
+  </EntityType>
+  <Association Name="FK__clientes__idpais__145C0A3F">
+    <End Type="Negocios2014Model.paises" Role="paises" Multiplicity="0..1" />
+    <End Type="Negocios2014Model.clientes" Role="clientes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="paises">
+        <PropertyRef Name="Idpais" />
+      </Principal>
+      <Dependent Role="clientes">
+        <PropertyRef Name="idpais" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

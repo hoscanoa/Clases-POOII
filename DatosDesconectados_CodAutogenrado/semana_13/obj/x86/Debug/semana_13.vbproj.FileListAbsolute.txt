@@ -1,0 +1,64 @@
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\bin\Debug\semana_13.exe
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\bin\Debug\semana_13.pdb
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\bin\Debug\semana_13.xml
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\semana_13.Form1.resources
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\semana_13.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\semana_13.exe
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\semana_13.xml
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\obj\x86\Debug\semana_13.pdb
+D:\Documents and Settings\Administrator\Desktop\semana_13\semana_13\bin\Debug\semana_13.exe.config
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\bin\Debug\semana_13.exe.config
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\semana_13.exe
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\semana_13.xml
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\semana_13.pdb
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\bin\Debug\semana_13.exe
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\bin\Debug\semana_13.pdb
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\bin\Debug\semana_13.xml
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\semana_13.Resources.resources
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\Administrator\Desktop\Copy of semana_13\semana_13\obj\x86\Debug\semana_13.frmClientes.resources
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe.config
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.exe
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.xml
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.pdb
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.pdb
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.xml
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.frmClientes.resources
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.Resources.resources
+C:\Users\Alex\Desktop\Miercoles\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.vbproj.GenerateResource.Cache
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe.config
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.exe
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.xml
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.pdb
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.pdb
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.xml
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.frmClientes.resources
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.Resources.resources
+C:\Users\pfsierra\Desktop\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe.config
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.exe
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.xml
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.pdb
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.pdb
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.xml
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.frmClientes.resources
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.Resources.resources
+C:\Users\suite-c301\Desktop\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.vbproj.GenerateResource.Cache
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe.config
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.exe
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.xml
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.pdb
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.exe
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.pdb
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\bin\Debug\semana_13.xml
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.frmClientes.resources
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.Resources.resources
+C:\Users\sophia\Desktop\POO\Semana07\DatosDesconectados_CodAutogenrado\semana_13\obj\x86\Debug\semana_13.vbproj.GenerateResource.Cache

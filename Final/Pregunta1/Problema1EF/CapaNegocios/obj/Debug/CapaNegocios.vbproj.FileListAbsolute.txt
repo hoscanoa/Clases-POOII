@@ -1,0 +1,15 @@
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaNegocios.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaDatos.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\bin\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.Resources.resources
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.xml
+C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaNegocios\obj\Debug\CapaNegocios.pdb

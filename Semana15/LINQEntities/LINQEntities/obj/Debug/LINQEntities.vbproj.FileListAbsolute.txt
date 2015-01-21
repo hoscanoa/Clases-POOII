@@ -1,0 +1,20 @@
+C:\Users\suite-c301\AppData\Local\Temporary Projects\LINQEntities\bin\Debug\LINQEntities.exe.config
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\LINQEntities.exe.config
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\LINQEntities.exe
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\LINQEntities.pdb
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\LINQEntities.xml
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\EntityFramework.dll
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\bin\Debug\EntityFramework.xml
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.vbprojResolveAssemblyReference.cache
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.Form1.resources
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.Resources.resources
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.exe
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.xml
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.pdb
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.Form2.resources
+C:\Users\suite-c301\Desktop\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.Form3.resources
+D:\POOII\Semana15\LINQEntities\LINQEntities\bin\Debug\LINQEntities.exe.config
+D:\POOII\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.exe
+D:\POOII\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.xml
+D:\POOII\Semana15\LINQEntities\LINQEntities\obj\Debug\LINQEntities.pdb

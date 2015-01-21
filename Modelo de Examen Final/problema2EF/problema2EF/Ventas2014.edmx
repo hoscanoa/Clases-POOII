@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="VENTAS2014Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="VENTAS2014ModelStoreContainer">
+          <EntitySet Name="CLIENTE" EntityType="VENTAS2014Model.Store.CLIENTE" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="DISTRITO" EntityType="VENTAS2014Model.Store.DISTRITO" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK__CLIENTE__COD_DIS__145C0A3F" Association="VENTAS2014Model.Store.FK__CLIENTE__COD_DIS__145C0A3F">
+            <End Role="DISTRITO" EntitySet="DISTRITO" />
+            <End Role="CLIENTE" EntitySet="CLIENTE" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="CLIENTE">
+          <Key>
+            <PropertyRef Name="COD_CLI" />
+          </Key>
+          <Property Name="COD_CLI" Type="char" Nullable="false" MaxLength="6" />
+          <Property Name="NOMBRES" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="APE_PATER_CLI" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="APE_MATER_CLI" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="DIRECCION_CLI" Type="varchar" MaxLength="50" />
+          <Property Name="TELEFONO_CLI" Type="char" MaxLength="7" />
+          <Property Name="COD_DIST" Type="char" Nullable="false" MaxLength="3" />
+          <Property Name="CORREO_E" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="DISTRITO">
+          <Key>
+            <PropertyRef Name="COD_DIST" />
+          </Key>
+          <Property Name="COD_DIST" Type="char" Nullable="false" MaxLength="3" />
+          <Property Name="DESCRIP_DIST" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK__CLIENTE__COD_DIS__145C0A3F">
+          <End Role="DISTRITO" Type="VENTAS2014Model.Store.DISTRITO" Multiplicity="1" />
+          <End Role="CLIENTE" Type="VENTAS2014Model.Store.CLIENTE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DISTRITO">
+              <PropertyRef Name="COD_DIST" />
+            </Principal>
+            <Dependent Role="CLIENTE">
+              <PropertyRef Name="COD_DIST" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="VENTAS2014Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="VENTAS2014Entities1" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="CLIENTE" EntityType="VENTAS2014Model.CLIENTE" />
+          <EntitySet Name="DISTRITO" EntityType="VENTAS2014Model.DISTRITO" />
+          <AssociationSet Name="FK__CLIENTE__COD_DIS__145C0A3F" Association="VENTAS2014Model.FK__CLIENTE__COD_DIS__145C0A3F">
+            <End Role="DISTRITO" EntitySet="DISTRITO" />
+            <End Role="CLIENTE" EntitySet="CLIENTE" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="CLIENTE">
+          <Key>
+            <PropertyRef Name="COD_CLI" />
+          </Key>
+          <Property Name="COD_CLI" Type="String" Nullable="false" MaxLength="6" Unicode="false" FixedLength="true" />
+          <Property Name="NOMBRES" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="APE_PATER_CLI" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="APE_MATER_CLI" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="DIRECCION_CLI" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="TELEFONO_CLI" Type="String" MaxLength="7" Unicode="false" FixedLength="true" />
+          <Property Name="COD_DIST" Type="String" Nullable="false" MaxLength="3" Unicode="false" FixedLength="true" />
+          <Property Name="CORREO_E" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="DISTRITO" Relationship="VENTAS2014Model.FK__CLIENTE__COD_DIS__145C0A3F" FromRole="CLIENTE" ToRole="DISTRITO" />
+        </EntityType>
+        <EntityType Name="DISTRITO">
+          <Key>
+            <PropertyRef Name="COD_DIST" />
+          </Key>
+          <Property Name="COD_DIST" Type="String" Nullable="false" MaxLength="3" Unicode="false" FixedLength="true" />
+          <Property Name="DESCRIP_DIST" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="CLIENTE" Relationship="VENTAS2014Model.FK__CLIENTE__COD_DIS__145C0A3F" FromRole="DISTRITO" ToRole="CLIENTE" />
+        </EntityType>
+        <Association Name="FK__CLIENTE__COD_DIS__145C0A3F">
+          <End Role="DISTRITO" Type="VENTAS2014Model.DISTRITO" Multiplicity="1" />
+          <End Role="CLIENTE" Type="VENTAS2014Model.CLIENTE" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="DISTRITO">
+              <PropertyRef Name="COD_DIST" />
+            </Principal>
+            <Dependent Role="CLIENTE">
+              <PropertyRef Name="COD_DIST" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="VENTAS2014ModelStoreContainer" CdmEntityContainer="VENTAS2014Entities1">
+          <EntitySetMapping Name="CLIENTE">
+            <EntityTypeMapping TypeName="VENTAS2014Model.CLIENTE">
+              <MappingFragment StoreEntitySet="CLIENTE">
+                <ScalarProperty Name="COD_CLI" ColumnName="COD_CLI" />
+                <ScalarProperty Name="NOMBRES" ColumnName="NOMBRES" />
+                <ScalarProperty Name="APE_PATER_CLI" ColumnName="APE_PATER_CLI" />
+                <ScalarProperty Name="APE_MATER_CLI" ColumnName="APE_MATER_CLI" />
+                <ScalarProperty Name="DIRECCION_CLI" ColumnName="DIRECCION_CLI" />
+                <ScalarProperty Name="TELEFONO_CLI" ColumnName="TELEFONO_CLI" />
+                <ScalarProperty Name="COD_DIST" ColumnName="COD_DIST" />
+                <ScalarProperty Name="CORREO_E" ColumnName="CORREO_E" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="DISTRITO">
+            <EntityTypeMapping TypeName="VENTAS2014Model.DISTRITO">
+              <MappingFragment StoreEntitySet="DISTRITO">
+                <ScalarProperty Name="COD_DIST" ColumnName="COD_DIST" />
+                <ScalarProperty Name="DESCRIP_DIST" ColumnName="DESCRIP_DIST" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

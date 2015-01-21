@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Negocios2014Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Negocios2014ModelStoreContainer">
+    <EntitySet Name="productos" EntityType="Negocios2014Model.Store.productos" store:Type="Tables" Schema="Compras" />
+    <EntitySet Name="clientes" EntityType="Negocios2014Model.Store.clientes" store:Type="Tables" Schema="Ventas" />
+    <EntitySet Name="paises" EntityType="Negocios2014Model.Store.paises" store:Type="Tables" Schema="Ventas" />
+    <AssociationSet Name="FK__clientes__idpais__145C0A3F" Association="Negocios2014Model.Store.FK__clientes__idpais__145C0A3F">
+      <End Role="paises" EntitySet="paises" />
+      <End Role="clientes" EntitySet="clientes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="productos">
+    <Key>
+      <PropertyRef Name="IdProducto" />
+    </Key>
+    <Property Name="IdProducto" Type="int" Nullable="false" />
+    <Property Name="NomProducto" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="IdProveedor" Type="int" />
+    <Property Name="IdCategoria" Type="int" />
+    <Property Name="CantxUnidad" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="PrecioUnidad" Type="decimal" Nullable="false" Precision="10" />
+    <Property Name="UnidadesEnExistencia" Type="smallint" Nullable="false" />
+    <Property Name="UnidadesEnPedido" Type="smallint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="clientes">
+    <Key>
+      <PropertyRef Name="IdCliente" />
+    </Key>
+    <Property Name="IdCliente" Type="varchar" Nullable="false" MaxLength="5" />
+    <Property Name="NomCliente" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="DirCliente" Type="varchar" Nullable="false" MaxLength="60" />
+    <Property Name="idpais" Type="char" MaxLength="3" />
+    <Property Name="fonoCliente" Type="varchar" Nullable="false" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="paises">
+    <Key>
+      <PropertyRef Name="Idpais" />
+    </Key>
+    <Property Name="Idpais" Type="char" Nullable="false" MaxLength="3" />
+    <Property Name="NombrePais" Type="varchar" Nullable="false" MaxLength="40" />
+  </EntityType>
+  <Association Name="FK__clientes__idpais__145C0A3F">
+    <End Role="paises" Type="Negocios2014Model.Store.paises" Multiplicity="0..1" />
+    <End Role="clientes" Type="Negocios2014Model.Store.clientes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="paises">
+        <PropertyRef Name="Idpais" />
+      </Principal>
+      <Dependent Role="clientes">
+        <PropertyRef Name="idpais" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

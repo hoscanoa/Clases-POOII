@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VENTAS2014Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="VENTAS2014ModelStoreContainer">
+    <EntitySet Name="CLIENTE" EntityType="VENTAS2014Model.Store.CLIENTE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DISTRITO" EntityType="VENTAS2014Model.Store.DISTRITO" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__CLIENTE__COD_DIS__145C0A3F" Association="VENTAS2014Model.Store.FK__CLIENTE__COD_DIS__145C0A3F">
+      <End Role="DISTRITO" EntitySet="DISTRITO" />
+      <End Role="CLIENTE" EntitySet="CLIENTE" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="COD_CLI" />
+    </Key>
+    <Property Name="COD_CLI" Type="char" Nullable="false" MaxLength="6" />
+    <Property Name="NOMBRES" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="APE_PATER_CLI" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="APE_MATER_CLI" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCION_CLI" Type="varchar" MaxLength="50" />
+    <Property Name="TELEFONO_CLI" Type="char" MaxLength="7" />
+    <Property Name="COD_DIST" Type="char" Nullable="false" MaxLength="3" />
+    <Property Name="CORREO_E" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="DISTRITO">
+    <Key>
+      <PropertyRef Name="COD_DIST" />
+    </Key>
+    <Property Name="COD_DIST" Type="char" Nullable="false" MaxLength="3" />
+    <Property Name="DESCRIP_DIST" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK__CLIENTE__COD_DIS__145C0A3F">
+    <End Role="DISTRITO" Type="VENTAS2014Model.Store.DISTRITO" Multiplicity="1" />
+    <End Role="CLIENTE" Type="VENTAS2014Model.Store.CLIENTE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DISTRITO">
+        <PropertyRef Name="COD_DIST" />
+      </Principal>
+      <Dependent Role="CLIENTE">
+        <PropertyRef Name="COD_DIST" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,8 @@
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\bin\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.Cache
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\obj\Debug\CapaEntidad.xml
+C:\Users\suite-c301\Desktop\EP03a\Problema1\CapaEntidad\obj\Debug\CapaEntidad.pdb
