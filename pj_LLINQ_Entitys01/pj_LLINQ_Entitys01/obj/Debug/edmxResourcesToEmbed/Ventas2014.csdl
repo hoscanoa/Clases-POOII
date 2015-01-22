@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VENTAS2014Model" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="VENTAS2014Entities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="PRODUCTO" EntityType="VENTAS2014Model.PRODUCTO" />
+  </EntityContainer>
+  <EntityType Name="PRODUCTO">
+    <Key>
+      <PropertyRef Name="COD_PRO" />
+    </Key>
+    <Property Name="COD_PRO" Type="String" Nullable="false" MaxLength="4" Unicode="false" FixedLength="true" />
+    <Property Name="DESCRIP_PRO" Type="String" Nullable="false" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="PRECIO_PRO" Type="Decimal" Nullable="false" Precision="19" Scale="4" />
+    <Property Name="STOCK_ACT_PRO" Type="Int32" Nullable="false" />
+    <Property Name="STOCK_MIN_PRO" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

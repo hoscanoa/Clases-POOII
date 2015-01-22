@@ -1,0 +1,13 @@
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\pj_LLINQ_Entitys01.exe.config
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\pj_LLINQ_Entitys01.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\pj_LLINQ_Entitys01.pdb
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\pj_LLINQ_Entitys01.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\EntityFramework.dll
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\bin\Debug\EntityFramework.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.vbprojResolveAssemblyReference.cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.Form1.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.Resources.resources
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.vbproj.GenerateResource.Cache
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.exe
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.xml
+c:\users\suite-c301\documents\visual studio 2012\Projects\pj_LLINQ_Entitys01\pj_LLINQ_Entitys01\obj\Debug\pj_LLINQ_Entitys01.pdb

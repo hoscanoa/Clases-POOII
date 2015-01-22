@@ -10,3 +10,15 @@ C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaDatos\obj\Debug
 C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaDatos\obj\Debug\CapaDatos.xml
 C:\Users\suite-c301\Documents\Visual Studio 2012\Problema1EF\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaDatos.xml
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\bin\Debug\CapaEntidad.xml
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.vbprojResolveAssemblyReference.cache
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.Cache
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.xml
+E:\Cibertec\Cuarto Ciclo\POOII\Repositorios Gibhub\Clases-POOII\Final\Pregunta1\Problema1EF\CapaDatos\obj\Debug\CapaDatos.pdb

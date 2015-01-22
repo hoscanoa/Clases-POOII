@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VENTAS2014ModelStoreContainer" CdmEntityContainer="VENTAS2014Entities">
+    <EntitySetMapping Name="PRODUCTO">
+      <EntityTypeMapping TypeName="VENTAS2014Model.PRODUCTO">
+        <MappingFragment StoreEntitySet="PRODUCTO">
+          <ScalarProperty Name="COD_PRO" ColumnName="COD_PRO" />
+          <ScalarProperty Name="DESCRIP_PRO" ColumnName="DESCRIP_PRO" />
+          <ScalarProperty Name="PRECIO_PRO" ColumnName="PRECIO_PRO" />
+          <ScalarProperty Name="STOCK_ACT_PRO" ColumnName="STOCK_ACT_PRO" />
+          <ScalarProperty Name="STOCK_MIN_PRO" ColumnName="STOCK_MIN_PRO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

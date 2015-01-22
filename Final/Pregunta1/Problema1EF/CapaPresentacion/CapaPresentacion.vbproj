@@ -86,12 +86,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
-    <Compile Include="frmActualiza.Designer.vb">
-      <DependentUpon>frmActualiza.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmActualiza.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="frmIngreso.Designer.vb">
       <DependentUpon>frmIngreso.vb</DependentUpon>
     </Compile>
